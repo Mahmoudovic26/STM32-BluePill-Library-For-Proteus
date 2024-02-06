@@ -2,7 +2,6 @@
 
 First ever board library based on stm32 is now available for proteus. Visit and Subscribe My youtube channel for more libraries and video like this.
 
-https://www.youtube.com/channel/UCOrVJ1fDDCKDYMAYQmn6zWw
 
 ![image](https://user-images.githubusercontent.com/36687320/112338624-f5405c00-8ce4-11eb-9c27-44104f9af009.png)
 
